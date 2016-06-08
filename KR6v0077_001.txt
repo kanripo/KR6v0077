@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:36.083402
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064a
 #+PROPERTY: ID KR6v0077
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064a
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0077_W_001-0348a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 地藏菩薩十齋日¶
 ¶
 整理者　張總¶
 ¶
@@ -102,8 +102,8 @@
 
 校本丁：北圖發七號。¶
 
-此外，法國藏P.t.941號為藏文本，英國藏Ch.9Ⅱ.17¶
-為古藏文音譯本。這兩種寫本也應屬於這一異本系統，此次¶
+此外，法國藏 P. t. 941 號為藏文本，英國藏 Ch. 9Ⅱ. 17¶
+ 為古藏文音譯本。這兩種寫本也應屬於這一異本系統，此次¶
 未參校。¶
 
 第五系統：¶
@@ -124,7 +124,7 @@
 
 <pb:KR6v0077_W_001-0351a>¶
 
-錄文一¶
+* 〔錄文一〕¶
 ¶
 
   
