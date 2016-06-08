@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:36.083402
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064a
 #+PROPERTY: ID KR6v0077
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 整理者　張總¶
 ¶
@@ -124,7 +124,7 @@
 
 <pb:KR6v0077_W_001-0351a>¶
 
-錄文一¶
+* 錄文一¶
 ¶
 
   
